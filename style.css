@@ -1,0 +1,27 @@
+img{
+    height: 500px;
+    width: 100%;
+}
+.container-fluid{
+    background-color: rgba(0, 0, 0, 0.327);
+    height: 300px !important;
+}
+
+small{
+    background-color: red !important;
+    position: absolute !important;
+    float: right !important;
+    margin-top: -60px !important;
+    margin-left: 100px;
+}
+#showPic{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap !important;
+}
+body{
+    background: url(alps-7922246.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center !important;
+}
